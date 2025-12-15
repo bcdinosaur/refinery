@@ -1,7 +1,7 @@
-abbreviation: NE
+abbreviation: CH
 available: false
-classes: 32
-colour: 1
+classes: 320
+colour: 255
 id: 20
 label: CHEM
 longName: chemicals
